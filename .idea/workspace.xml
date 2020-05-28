@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b5ebad0-0972-455e-9bdd-918e53eaefb2" name="Default Changelist" comment="" />
+    <list default="true" id="3b5ebad0-0972-455e-9bdd-918e53eaefb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/Serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/guanguan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/guanguan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/first/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guanguan/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/guanguan/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -13,6 +55,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cQPnaU2Kupg57z4jTWsw0uS9DV" />
   <component name="ProjectViewState">
@@ -22,8 +67,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="guanguan" type="Python.DjangoServer" factoryName="Django server">
@@ -61,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590458014135</updated>
       <workItem from="1590458022178" duration="717000" />
+      <workItem from="1590677124886" duration="578000" />
     </task>
     <servers />
   </component>
@@ -68,9 +116,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="603" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1590458032195">
-      <screen x="0" y="0" width="1846" height="1080" />
+    <state x="467" y="155" key="SettingsEditor" timestamp="1590677571341">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="467" y="155" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1590677571341" />
+    <state x="549" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1590677125967">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="603" y="364" key="com.intellij.ide.util.TipDialog/0.0.1846.1080@0.0.1846.1080" timestamp="1590458032195" />
+    <state x="549" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590677125967" />
+    <state x="1133" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1590677364307">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1133" y="240" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1590677364307" />
   </component>
 </project>
